@@ -1,4 +1,4 @@
-# ⚡ Unbreakfocus
+#  Unbreakfocus
 
 **A minimalist, distraction-free study timer designed for high-stakes aspirants (JEE/NEET/Boards).**
 
@@ -9,13 +9,13 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-## 📱 About The Project
+##  About The Project
 
 **Unbreakfocus** is not just another timer; it is a discipline engine. Built for students who cannot afford to waste time, it features a "Glass" UI aesthetic (Pure Black + Neon Cyan) and runs 100% offline.
 
 Unlike standard timers that stop when you switch apps, **Unbreakfocus features "YouTube Catch-up" logic**—it intelligently calculates the time difference when you return from watching a video lecture and adds it to your session instantly.
 
-## ✨ Key Features
+##  Key Features
 
 *   **The Engine (Timer):** A countdown timer that shifts into "Overtime Mode" (counting up) when the goal is reached, encouraging flow state.
 *   **YouTube Catch-up Logic:** Uses `WidgetsBindingObserver` to track background time, allowing students to watch lectures without stopping the timer.
@@ -32,7 +32,7 @@ Unlike standard timers that stop when you switch apps, **Unbreakfocus features "
 *   **Notifications:** `flutter_local_notifications`
 *   **UI Assets:** `cupertino_icons`, `google_fonts`
 
-## 📸 Screenshots
+##  Screenshots
 
 | Dashboard | The Engine | Stats & Heatmap |
 |:---:|:---:|:---:|
